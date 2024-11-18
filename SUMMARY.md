@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [prompt-injection](README.md)
+* [ChatGPT Memory Injection](chatgpt-memory-injection/README.md)
+  * [Demo](chatgpt-memory-injection/demo.md)

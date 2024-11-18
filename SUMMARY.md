@@ -1,5 +1,5 @@
 # Table of contents
 
-* [prompt-injection](README.md)
-* [ChatGPT Memory Injection](chatgpt-memory-injection/README.md)
-  * [Demo](chatgpt-memory-injection/demo.md)
+* [LLM](README.md)
+* [内存提示词注入](nei-cun-ti-shi-ci-zhu-ru/README.md)
+  * [Demo](nei-cun-ti-shi-ci-zhu-ru/demo.md)

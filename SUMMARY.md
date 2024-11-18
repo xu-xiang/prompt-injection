@@ -1,5 +1,5 @@
 # Table of contents
 
 * [LLM](README.md)
-* [内存提示词注入](nei-cun-ti-shi-ci-zhu-ru/README.md)
-  * [Demo](nei-cun-ti-shi-ci-zhu-ru/demo.md)
+* [案例1](an-li-1/README.md)
+  * [Demo](an-li-1/demo.md)
